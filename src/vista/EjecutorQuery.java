@@ -426,7 +426,7 @@ public class EjecutorQuery extends javax.swing.JInternalFrame {
         }
            
         } catch (Exception e) {
-            System.out.println("Error");
+            System.out.println("Error:"+e.getMessage());
            rn.terminal.setText("hola");
            //JOptionPane.showMessageDialog(null,"Error:"+e.getMessage(),"",JOptionPane.ERROR_MESSAGE);
         }

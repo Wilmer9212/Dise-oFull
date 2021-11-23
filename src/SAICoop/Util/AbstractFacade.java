@@ -6,7 +6,6 @@
 package SAICoop.Util;
 
 import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
 
 /**
  *
